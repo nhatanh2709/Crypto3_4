@@ -1,0 +1,20 @@
+C:\Task3\Task3UI\main\main\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Task3\Task3UI\main\main\obj\Debug\main.Properties.Resources.resources
+C:\Task3\Task3UI\main\main\obj\Debug\main.csproj.GenerateResource.cache
+C:\Task3\Task3UI\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Task3\Task3UI\main\main\bin\Debug\main.exe.config
+C:\Task3\Task3UI\main\main\bin\Debug\main.exe
+C:\Task3\Task3UI\main\main\bin\Debug\main.pdb
+C:\Task3\Task3UI\main\main\obj\Debug\main.exe
+C:\Task3\Task3UI\main\main\obj\Debug\main.pdb
+C:\Task3\Task3UI\main\main\obj\Debug\KeyGen.Form1.resources
+C:\Task3 - Copy\Task3UI\main\main\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Task3 - Copy\Task3UI\main\main\obj\Debug\main.Properties.Resources.resources
+C:\Task3 - Copy\Task3UI\main\main\obj\Debug\main.csproj.GenerateResource.cache
+C:\Task3 - Copy\Task3UI\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Task3 - Copy\Task3UI\main\main\obj\Debug\main.exe
+C:\Task3 - Copy\Task3UI\main\main\obj\Debug\main.pdb
+C:\Task3 - Copy\Task3UI\main\main\bin\Debug\main.exe.config
+C:\Task3 - Copy\Task3UI\main\main\bin\Debug\main.exe
+C:\Task3 - Copy\Task3UI\main\main\bin\Debug\main.pdb
+C:\Task3 - Copy\Task3UI\main\main\obj\Debug\UI.Form1.resources

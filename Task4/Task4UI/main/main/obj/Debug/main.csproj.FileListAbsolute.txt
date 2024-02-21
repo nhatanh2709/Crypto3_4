@@ -1,0 +1,10 @@
+C:\Task4\Task4UI\main\main\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Task4\Task4UI\main\main\obj\Debug\KeyGen.Form1.resources
+C:\Task4\Task4UI\main\main\obj\Debug\main.Properties.Resources.resources
+C:\Task4\Task4UI\main\main\obj\Debug\main.csproj.GenerateResource.cache
+C:\Task4\Task4UI\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Task4\Task4UI\main\main\bin\Debug\main.exe.config
+C:\Task4\Task4UI\main\main\bin\Debug\main.exe
+C:\Task4\Task4UI\main\main\bin\Debug\main.pdb
+C:\Task4\Task4UI\main\main\obj\Debug\main.exe
+C:\Task4\Task4UI\main\main\obj\Debug\main.pdb
